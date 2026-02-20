@@ -30,7 +30,8 @@ Real-time weather data application using API integration.
 - Search weather by city  
 -  Live temperature display  
 -  Humidity & wind speed  
--  Weather condition updates  
+-  Weather condition updates
+-  https://github.com/swarnaa19/New-folder--8-/blob/main/weather.py 
 
 **Tech Used:**  
 Python / React  
