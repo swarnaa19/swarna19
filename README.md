@@ -22,14 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Swarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnaa19&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaa19&layout=compact&theme=tokyonight)
-
----
-
 # Featured Projects  
 # Weather Fetcher App  
 Real-time weather data application using API integration.  
